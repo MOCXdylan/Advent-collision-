@@ -9,7 +9,7 @@
 
 	{
 		//nations
-		"name": "Babylon",
+		"name": "aaa",
 		"leaderName": "Nebuchadnezzar II",
 		"adjective": ["Babylonian"],
 		"startBias": ["Avoid [Tundra]"],
